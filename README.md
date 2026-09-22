@@ -2,6 +2,8 @@
 
 A customer wallet analytics and decision-intelligence platform for detecting silent attrition, understanding payment migration, identifying high-value recovery opportunities, and simulating potential Share-of-Wallet uplift.
 
+Live Website Link: https://hsic-wallet-intelligence.streamlit.app/
+
 ## Overview
 
 HSIC Wallet Intelligence transforms transaction-level customer behavior into actionable portfolio insights.
